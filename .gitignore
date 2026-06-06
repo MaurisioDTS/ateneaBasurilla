@@ -1,0 +1,11 @@
+# pyinstaller
+build/
+dist/
+*.spec
+
+# venv
+.venv/
+
+# python
+__pycache__/
+*.py[cod]

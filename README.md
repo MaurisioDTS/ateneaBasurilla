@@ -2,6 +2,8 @@
 
 *gui mínima para generar flags de atenea a partir de un texto.*
 
+<img width="524" height="201" alt="Captura de pantalla_20260606_103614" src="https://github.com/user-attachments/assets/35ef97a1-0809-4756-a5e3-ce2b352a24f8" />
+
 ## esto pa k es
 
 escribes una cadena y te devuelve `flag{<md5_en_hex>}`. el hash es el mismo que harías en bash con:
